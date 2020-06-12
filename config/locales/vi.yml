@@ -1,0 +1,15 @@
+vi:
+  en: "Tiếng Anh"
+  vi: "Tiếng Việt"
+  title: "Ứng dụng mẫu"
+  base_title: "Ứng dụng mẫu hướng dẫn Ruby on Rails"
+  ruby_rails: "Hướng dẫn Ruby on Rails"
+  static_pages:
+    home:
+      home: "Trang chủ"
+      sample_app: "Đây là trang chủ cho ứng dụng mẫu "
+    help:
+      help: "Trợ giúp"
+      get_help: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem"
+      get_help_rails: "Nhận trợ giúp về hướng dẫn Ruby on Rails tại"
+      help_page_rails: "Trang trợ giúp của Rails"
