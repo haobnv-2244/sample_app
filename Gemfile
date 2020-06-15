@@ -8,9 +8,10 @@ gem "puma", "~> 4.1"
 gem "rails", "~> 6.0.3", ">= 6.0.3.1"
 gem "rails-i18n"
 gem "sass-rails", ">= 6"
-gem "sqlite3", "~> 1.4"
+gem "mysql2", ">= 0.4.4"
 gem "turbolinks", "~> 5"
 gem "webpacker", "~> 4.0"
+gem "config"
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
 end
