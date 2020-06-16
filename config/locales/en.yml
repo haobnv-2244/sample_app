@@ -1,13 +1,15 @@
 en:
   en: "English"
   vi: "Vietnamese"
-  title: "SampleApp"
+  title: "Sample App"
   base_title: "Ruby on Rails Tutorial Sample App"
   ruby_rails: "Ruby on Rails Tutorial"
+  login: "Log in"
   static_pages:
     home:
       home: "Home"
       sample_app: "This is the home page for the sample application "
+      sign_up_now : "Sign up now!"
     help:
       help: "Help"
       get_help: "To get help on this sample app, see the"
