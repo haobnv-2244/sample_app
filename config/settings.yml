@@ -1,3 +1,9 @@
 help_page_rails_link: "http://www.railstutorial.org/help"
 ruby_rails_book_link: "http://www.railstutorial.org/book"
 ruby_rails_link: "http://www.railstutorial.org/"
+regex_valid_email: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
+users:
+  user_name:
+    maximum: 50
+  email:
+    maximum: 255
