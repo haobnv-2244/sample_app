@@ -5,6 +5,7 @@ en:
   base_title: "Ruby on Rails Tutorial Sample App"
   ruby_rails: "Ruby on Rails Tutorial"
   login: "Log in"
+  logout: "Logout"
   static_pages:
     home:
       home: "Home"
@@ -28,3 +29,11 @@ en:
     error: "error"
     not_found: "User not found!"
     signup_failed: "Signup failed"
+    new_user: "New user "
+    sign_up_now : "Sign up now"
+    invalid_email_password_combination: "Invalid email or password"
+    login_success: "Login Success"
+    users: "Users"
+    account: "Account"
+    profile: "Profile"
+    settings: "Setting"
