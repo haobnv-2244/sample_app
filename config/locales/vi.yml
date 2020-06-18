@@ -5,6 +5,7 @@ vi:
   base_title: "Ứng dụng mẫu hướng dẫn Ruby on Rails"
   ruby_rails: "Hướng dẫn Ruby on Rails"
   login: "Đăng nhập"
+  logout: "Đăng xuất"
   static_pages:
     home:
       home: "Trang chủ"
@@ -27,3 +28,11 @@ vi:
     error: "lỗi"
     not_found: "Không tìm thấy user!"
     signup_failed: "Lỗi đăng ký"
+    new_user: "Người dùng mới "
+    sign_up_now : "Đăng ký ngay"
+    invalid_email_password_combination: "Email hoặc mật khẩu sai"
+    login_success: "Đăng nhập thành công"
+    users: "Nguời dùng"
+    account: "Tài khoản"
+    profile: "Cá nhân"
+    settings: "Cài đặt"
