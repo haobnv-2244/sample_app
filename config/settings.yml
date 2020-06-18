@@ -7,3 +7,4 @@ users:
     maximum: 50
   email:
     maximum: 255
+  remember: "1"
