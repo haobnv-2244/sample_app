@@ -1,10 +1,15 @@
 help_page_rails_link: "http://www.railstutorial.org/help"
 ruby_rails_book_link: "http://www.railstutorial.org/book"
 ruby_rails_link: "http://www.railstutorial.org/"
+change_avatar: http://gravatar.com/emails
 regex_valid_email: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
 users:
   user_name:
     maximum: 50
   email:
     maximum: 255
+  password:
+    minimum: 6
   remember: "1"
+  size_avatar: 80
+  per_page: 30
