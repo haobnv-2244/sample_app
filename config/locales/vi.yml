@@ -48,6 +48,15 @@ vi:
     delete_failed: "Lỗi xóa người dùng"
     you_sure: "Xác nhận xóa"
     update_failed: "Lỗi xập nhật"
+  email:
+    notice: "Vui lòng kiểm tra email để kích hoạt tài khoản của bạn"
+    subject: "Kích hoạt tài khoản"
+    not_activated: "Tài khoản chưa được kích hoạt. Kiểm tra email của bạn cho các liên kết kích hoạt.."
+    email_welcome: "Chào mừng bạn đến với Ứng dụng mẫu! Nhấp vào liên kết dưới đây để kích hoạt tài khoản của bạn"
+    account_activated: "Tài khoản đã được kích hoạt"
+    invalid_activation_link: "Liên kết không hợp lệ"
+    activate: "Kích hoạt"
+    hi: "Chào"
   views:
     pagination:
       first: "« Đầu"

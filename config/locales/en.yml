@@ -49,3 +49,12 @@ en:
     delete_failed: "Delete failed"
     you_sure: "You sure"
     update_failed: "Update failed"
+  email:
+    notice: "Please check your email to activate your account."
+    subject: "Account activation"
+    not_activated: "Account not activated. Check your email for the activation link."
+    email_welcome: Welcome to the Sample App! Click on the link below to activate your account
+    account_activated: "Account activated"
+    invalid_activation_link: "Invalid activation link"
+    activate: "Activate"
+    hi: "Hi"
