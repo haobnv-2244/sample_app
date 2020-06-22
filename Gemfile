@@ -13,6 +13,9 @@ gem "mysql2", ">= 0.4.4"
 gem "turbolinks", "~> 5"
 gem "webpacker", "~> 4.0"
 gem "bcrypt", "3.1.11"
+gem "faker", "2.1.2"
+gem "kaminari"
+gem "bootstrap-kaminari-views"
 gem "config"
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
