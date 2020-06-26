@@ -18,3 +18,4 @@ micropost:
   resize_to_limit: 50
   photo_size: 5
   image_type: "image/jpeg,image/gif,image/png"
+gravatar: 30
