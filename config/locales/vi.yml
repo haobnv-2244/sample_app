@@ -94,3 +94,8 @@ vi:
     micropost_feed: "Các bài viết"
     new_micropost: "Soạn bài viết mới..."
     post: "Đăng"
+  follow:
+    unfollow: "Bỏ theo dõi"
+    follow: "Theo dõi"
+    following: "Đang theo dõi"
+    followers: "Người theo dõi"

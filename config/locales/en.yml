@@ -87,3 +87,8 @@ en:
     micropost_feed: "Micropost Feed"
     new_micropost: "Compose new micropost..."
     post: "Post"
+  follow:
+    unfollow: "Unfollow"
+    follow: "Follow"
+    following: "Following"
+    followers: "Followers"
